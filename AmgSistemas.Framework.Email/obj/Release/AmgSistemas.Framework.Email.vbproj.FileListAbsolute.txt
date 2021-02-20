@@ -1,0 +1,10 @@
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Email\bin\Release\AmgSistemas.Framework.Email.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Email\bin\Release\AmgSistemas.Framework.Email.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Email\bin\Release\AmgSistemas.Framework.Email.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Email\obj\Release\AmgSistemas.Framework.Email.Resources.resources
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Email\obj\Release\AmgSistemas.Framework.Email.vbproj.GenerateResource.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Email\obj\Release\AmgSistemas.Framework.Email.vbproj.CoreCompileInputs.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Email\obj\Release\AmgSistemas.Framework.Email.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Email\obj\Release\AmgSistemas.Framework.Email.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Email\obj\Release\AmgSistemas.Framework.Email.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Email\obj\Release\AmgSistemas.Framework.Email.vbprojAssemblyReference.cache

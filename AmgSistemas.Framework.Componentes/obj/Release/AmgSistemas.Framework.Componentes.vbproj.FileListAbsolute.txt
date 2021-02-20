@@ -1,0 +1,10 @@
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Componentes\bin\Release\AmgSistemas.Framework.Componentes.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Componentes\bin\Release\AmgSistemas.Framework.Componentes.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Componentes\bin\Release\AmgSistemas.Framework.Componentes.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Componentes\obj\Release\AmgSistemas.Framework.Componentes.vbprojAssemblyReference.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Componentes\obj\Release\AmgSistemas.Framework.Componentes.Resources.resources
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Componentes\obj\Release\AmgSistemas.Framework.Componentes.vbproj.GenerateResource.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Componentes\obj\Release\AmgSistemas.Framework.Componentes.vbproj.CoreCompileInputs.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Componentes\obj\Release\AmgSistemas.Framework.Componentes.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Componentes\obj\Release\AmgSistemas.Framework.Componentes.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Componentes\obj\Release\AmgSistemas.Framework.Componentes.pdb

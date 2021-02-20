@@ -1,0 +1,14 @@
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\bin\Release\AmgSistemas.Framework.AcessoDados.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\bin\Release\AmgSistemas.Framework.AcessoDados.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\bin\Release\AmgSistemas.Framework.AcessoDados.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\bin\Release\AmgSistemas.Framework.Criptografia.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\bin\Release\AmgSistemas.Framework.Criptografia.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\bin\Release\AmgSistemas.Framework.Criptografia.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\obj\Release\AmgSistemas.Framework.AcessoDados.vbprojAssemblyReference.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\obj\Release\AmgSistemas.Framework.AcessoDados.Resources.resources
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\obj\Release\AmgSistemas.Framework.AcessoDados.vbproj.GenerateResource.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\obj\Release\AmgSistemas.Framework.AcessoDados.vbproj.CoreCompileInputs.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\obj\Release\AmgSistemas.Framework.AcessoDados.vbproj.CopyComplete
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\obj\Release\AmgSistemas.Framework.AcessoDados.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\obj\Release\AmgSistemas.Framework.AcessoDados.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.AcessoDados\obj\Release\AmgSistemas.Framework.AcessoDados.pdb

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AmgSistemas.Framework.Utilitarios
+</name>
+</assembly>
+<members>
+<member name="T:AmgSistemas.Framework.Utilitarios.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AmgSistemas.Framework.Utilitarios.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AmgSistemas.Framework.Utilitarios.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:AmgSistemas.Framework.Utilitarios.Criterio">
+ <summary>
+ Classe de apoio - Criterio
+ </summary>
+ <remarks></remarks>
+ <history>
+ [pda] 13/02/2009 Criado
+ </history>
+</member>
+<member name="T:AmgSistemas.Framework.Utilitarios.CriterioColecion">
+ <summary>
+ Classe de apoio (Util) - Define a lista de criterios da cláusula "where"
+ </summary>
+ <remarks></remarks>
+ <history>
+ [pda] 13/02/2009 Criado
+ </history>
+</member>
+<member name="M:AmgSistemas.Framework.Utilitarios.CriterioColecion.addCriterio(System.String,System.String)">
+ <summary>
+ Adiciona um novo critério na lista
+ </summary>
+ <param name="Condicial"></param>
+ <param name="Clausula"></param>
+ <remarks></remarks>
+</member>
+<member name="M:AmgSistemas.Framework.Utilitarios.Util.AtribuirValorObjeto(System.Object@,System.Object,System.Type)">
+ <summary>
+ Atribui o valor ao objeto passado, faz a conversão do tipo do banco para o tipo da propriedade.
+ </summary>
+ <param name="Campo"></param>
+ <param name="Valor"></param>
+ <param name="TipoCampo"></param>
+ <remarks></remarks>
+ <history>
+ </history>
+</member>
+<member name="M:AmgSistemas.Framework.Utilitarios.Util.ClonarObjeto(System.Object)">
+ <summary>
+ Retorna cópia do objeto passado como parâmetro
+ </summary>
+ <param name="obj"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:AmgSistemas.Framework.Utilitarios.Util.NumeroVirgulaPonto(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Garante a entrada apenas de valores númericos, virgula e ponto
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+ <history>
+ [octavio.piramo] 03/09/2008 Criado
+ </history>
+</member>
+<member name="M:AmgSistemas.Framework.Utilitarios.Util.SomenteNumero(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Permite a entreda apenas de numeros
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+ <history>
+ [octavio.piramo] 03/09/2008 Criado
+ </history>
+</member>
+<member name="M:AmgSistemas.Framework.Utilitarios.Util.MontarClausulaIn(System.Object,System.String,AmgSistemas.Framework.AcessoDados.ParametroColecao@,System.String,System.String,System.String)">
+ <summary>
+ Monta a clausula in através de uma coleção de itens e o nome do campo
+ </summary>
+ <param name="Itens"></param>
+ <param name="Campo"></param>
+ <param name="Parametros"></param>
+ <param name="TipoClausula">Utilizado para informar se a clausula é WHERE, AND ou OR.</param>
+ <param name="Alias">Insere um alias para o campo de consulta.</param>
+ <param name="Dif">Utilizado para diferenciar o campo que será adicionado no parameter. Isto evita problemas com campos repetidos no parameter.</param>
+ <returns></returns>
+ <remarks></remarks>
+ <history>
+ [octavio.piramo] 03/02/2009 Criado
+ </history>
+</member>
+<member name="M:AmgSistemas.Framework.Utilitarios.Util.MontarClausulaLike(System.Object,System.String,AmgSistemas.Framework.AcessoDados.ParametroColecao@,System.String,System.String)">
+ <summary>
+ Monta a clausula like através de uma coleção de itens e o nome do campo
+ </summary>
+ <param name="Itens"></param>
+ <param name="Campo"></param>
+ <param name="Parametros"></param>
+ <returns></returns>
+ <remarks></remarks>
+ <history>
+ [anselmo.gois] 11/02/2009 Created
+ </history>
+</member>
+<member name="M:AmgSistemas.Framework.Utilitarios.Util.MontarClausulaWhere(AmgSistemas.Framework.Utilitarios.CriterioColecion)">
+ <summary>
+ Dada uma query genérica, monta a cláusula where com os pârametros informados
+ </summary>
+ <param name="Comandos">Lista de comandos - Objeto Criterio{Codicional e Clausula. Ex: Condicional-> AND e Clausula-> CampoExemplo like '%valor%'}</param>
+ <returns></returns>
+ <remarks></remarks>
+ <hitory>pda 12/02/09 - Created</hitory>
+</member>
+</members>
+</doc>

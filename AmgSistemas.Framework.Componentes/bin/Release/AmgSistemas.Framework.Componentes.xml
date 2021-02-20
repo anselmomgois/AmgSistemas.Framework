@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AmgSistemas.Framework.Componentes
+</name>
+</assembly>
+<members>
+<member name="T:AmgSistemas.Framework.Componentes.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AmgSistemas.Framework.Componentes.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AmgSistemas.Framework.Componentes.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:AmgSistemas.Framework.Componentes.ColumnDataEditingControl.ColumnDataEditingControl_KeyDown(System.Object,System.Windows.Forms.KeyEventArgs)">
+ <summary>
+ Evento que avisa que o valor está sendo editado, corrige bug que apagava data
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+ <history>
+ [octavio.piramo] 12/09/2008 Criado
+ </history>
+</member>
+<member name="M:AmgSistemas.Framework.Componentes.TabTextBox.IsInputKey(System.Windows.Forms.Keys)">
+ <summary>
+ Sobrescreve método IsInputKey do TextBox para que o evento
+ KeyDown ou o evento de KeyUp seja ativado ao pressionar TAB
+ </summary>
+ <param name="keyData"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

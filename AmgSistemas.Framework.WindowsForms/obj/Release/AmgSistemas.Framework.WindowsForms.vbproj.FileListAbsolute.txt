@@ -1,0 +1,10 @@
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.WindowsForms\bin\Release\AmgSistemas.Framework.WindowsForms.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.WindowsForms\bin\Release\AmgSistemas.Framework.WindowsForms.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.WindowsForms\bin\Release\AmgSistemas.Framework.WindowsForms.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.WindowsForms\obj\Release\AmgSistemas.Framework.WindowsForms.vbprojAssemblyReference.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.WindowsForms\obj\Release\AmgSistemas.Framework.WindowsForms.Resources.resources
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.WindowsForms\obj\Release\AmgSistemas.Framework.WindowsForms.vbproj.GenerateResource.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.WindowsForms\obj\Release\AmgSistemas.Framework.WindowsForms.vbproj.CoreCompileInputs.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.WindowsForms\obj\Release\AmgSistemas.Framework.WindowsForms.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.WindowsForms\obj\Release\AmgSistemas.Framework.WindowsForms.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.WindowsForms\obj\Release\AmgSistemas.Framework.WindowsForms.pdb

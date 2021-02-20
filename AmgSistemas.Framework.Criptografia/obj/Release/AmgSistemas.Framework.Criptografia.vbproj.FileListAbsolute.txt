@@ -1,0 +1,10 @@
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Criptografia\bin\Release\AmgSistemas.Framework.Criptografia.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Criptografia\bin\Release\AmgSistemas.Framework.Criptografia.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Criptografia\bin\Release\AmgSistemas.Framework.Criptografia.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Criptografia\obj\Release\AmgSistemas.Framework.Criptografia.vbprojAssemblyReference.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Criptografia\obj\Release\AmgSistemas.Framework.Criptografia.Resources.resources
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Criptografia\obj\Release\AmgSistemas.Framework.Criptografia.vbproj.GenerateResource.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Criptografia\obj\Release\AmgSistemas.Framework.Criptografia.vbproj.CoreCompileInputs.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Criptografia\obj\Release\AmgSistemas.Framework.Criptografia.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Criptografia\obj\Release\AmgSistemas.Framework.Criptografia.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.Criptografia\obj\Release\AmgSistemas.Framework.Criptografia.pdb

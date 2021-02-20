@@ -1,0 +1,162 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AmgSistemas.Framework.Dicionario
+</name>
+</assembly>
+<members>
+<member name="T:AmgSistemas.Framework.Dicionario.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AmgSistemas.Framework.Dicionario.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AmgSistemas.Framework.Dicionario.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:AmgSistemas.Framework.Dicionario.Tradutor">
+ -----------------------------------------------------------------------------
+ Project	 : Prosegur.Framework.Dicionario
+ Class	 : Tradutor
+ -----------------------------------------------------------------------------
+ <summary>
+     Classe utilizada para efetuar traduções de texto
+ </summary>
+ <remarks>
+ </remarks>
+ <history>
+ 	[rafael.gans]		03/01/2008	Created
+ 	[carlos.bomtempo]	09/03/2009	Modificado para suportar múltiplos dicionarios
+ </history>
+ -----------------------------------------------------------------------------
+</member>
+<member name="P:AmgSistemas.Framework.Dicionario.Tradutor.DirDicionarios">
+ -----------------------------------------------------------------------------
+ <summary>
+ Diretório onde se encontram os dicionários
+ </summary>
+ <history>
+ 	[rafael.gans]		03/01/2008	Created
+ </history>
+ -----------------------------------------------------------------------------
+</member>
+<member name="P:AmgSistemas.Framework.Dicionario.Tradutor.SeparadorChave">
+ -----------------------------------------------------------------------------
+ <summary>
+ Caractere utilizado para separar a chave de seu valor no arquivo texto de dicionário
+ </summary>
+ <history>
+ 	[rafael.gans]	03/01/2008	Created
+ </history>
+ -----------------------------------------------------------------------------
+</member>
+<member name="P:AmgSistemas.Framework.Dicionario.Tradutor.CulturaPadrao">
+ -----------------------------------------------------------------------------
+ <summary>
+ Cultura utilizada para a tradução caso não exista o dicionário para a cultura ativa
+ </summary>
+ <history>
+ 	[rafael.gans]	03/01/2008	Created
+ </history>
+ -----------------------------------------------------------------------------
+</member>
+<member name="P:AmgSistemas.Framework.Dicionario.Tradutor.CulturaAtiva">
+ -----------------------------------------------------------------------------
+ <summary>
+ Cultura utilizada para a tradução dos textos do sistema
+ </summary>
+ <history>
+ 	[rafael.gans]		03/01/2008	Created
+ 	[carlos.bomtempo]	09/03/2009	Corrigido o funcionamento da função que setava a cultura na variavel errada.
+ </history>
+ -----------------------------------------------------------------------------
+</member>
+<member name="P:AmgSistemas.Framework.Dicionario.Tradutor.AplicacaoWeb">
+ -----------------------------------------------------------------------------
+ <summary>
+ Retorna true se a aplicação que está usando o dicionário é uma aplicação web, caso contrário retorna false
+ </summary>
+ <history>
+ 	[rafael.gans]	03/01/2008	Created
+ </history>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:AmgSistemas.Framework.Dicionario.Tradutor.ObterIdiomas">
+ -----------------------------------------------------------------------------
+ <summary>
+ Recupera os idiomas configurados do usuário
+ </summary>
+ <remarks></remarks>
+ <history>
+ 	[rafael.gans]	03/01/2008	Created
+ </history>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:AmgSistemas.Framework.Dicionario.Tradutor.CarregarDicionario">
+ -----------------------------------------------------------------------------
+ <summary>
+ Lê os arquivos textos de dicionários e cria uma coleção na memória para guarda-los.
+ </summary>
+ <remarks></remarks>
+ <history>
+ 	[rafael.gans]		03/01/2008	Created
+ 	[carlos.bomtempo]	09/03/2009	Modificado para tratar corretamente concorrencia na WEB e multiplos dicionarios
+ 	[carlos.bomtempo]	17/03/2009	Modificado para voltar a suportar culturas genéricas e multiplos arquivos para o mesmo dicionário
+ </history>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:AmgSistemas.Framework.Dicionario.Tradutor.Traduzir(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Recupera o texto referente a chave informada de acordo com a linguagem.
+ </summary>
+ <param name="chave">Chave do texto a ser recuperado</param>
+ <returns>Texto referente a chave informada</returns>
+ <remarks></remarks>
+ <history>
+ 	[rafael.gans]		03/01/2008	Created
+ 	[carlos.bomtempo]	09/03/2009	Modificado para a criação das sobrecargas
+ </history>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:AmgSistemas.Framework.Dicionario.Tradutor.Traduzir(System.String,System.Globalization.CultureInfo,System.Boolean,System.Boolean@)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Recupera o texto referente a chave informada de acordo com a linguagem.
+ </summary>
+ <param name="chave">Chave do texto a ser recuperado</param>
+ <param name="cultura">Cultura correspondente ao dicionário a ser utilizado</param>
+ <param name="chamadaInterna">Indica se a chamada foi ocasionada por uma sobrecarga</param>
+ <param name="encontrou">Indica se a chave foi encontrada no dicionario</param>
+ <returns>Texto referente a chave informada</returns>
+ <remarks></remarks>
+ <history>
+ 	[rafael.gans]		03/01/2008	Created
+ 	[carlos.bomtempo]	09/03/2009	Modificado para a criação das sobrecargas
+ </history>
+ -----------------------------------------------------------------------------
+</member>
+<member name="M:AmgSistemas.Framework.Dicionario.Tradutor.Traduzir(System.String,System.Globalization.CultureInfo)">
+ -----------------------------------------------------------------------------
+ <summary>
+ Recupera o texto referente a chave informada de acordo com a linguagem.
+ </summary>
+ <param name="chave">Chave do texto a ser recuperado</param>
+ <param name="cultura">Cultura correspondente ao dicionário a ser utilizado</param>
+ <returns>Texto referente a chave informada</returns>
+ <remarks></remarks>
+ <history>
+ 	[carlos.bomtempo]	03/01/2008	Created
+ </history>
+ -----------------------------------------------------------------------------
+</member>
+</members>
+</doc>

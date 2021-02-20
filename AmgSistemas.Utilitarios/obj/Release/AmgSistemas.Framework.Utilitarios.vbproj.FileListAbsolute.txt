@@ -1,0 +1,17 @@
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\bin\Release\AmgSistemas.Framework.Utilitarios.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\bin\Release\AmgSistemas.Framework.Utilitarios.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\bin\Release\AmgSistemas.Framework.Utilitarios.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\bin\Release\AmgSistemas.Framework.AcessoDados.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\bin\Release\AmgSistemas.Framework.Criptografia.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\bin\Release\AmgSistemas.Framework.AcessoDados.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\bin\Release\AmgSistemas.Framework.AcessoDados.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\bin\Release\AmgSistemas.Framework.Criptografia.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\bin\Release\AmgSistemas.Framework.Criptografia.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\obj\Release\AmgSistemas.Framework.Utilitarios.vbprojAssemblyReference.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\obj\Release\AmgSistemas.Framework.Utilitarios.Resources.resources
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\obj\Release\AmgSistemas.Framework.Utilitarios.vbproj.GenerateResource.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\obj\Release\AmgSistemas.Framework.Utilitarios.vbproj.CoreCompileInputs.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\obj\Release\AmgSistemas.Framework.Utilitarios.vbproj.CopyComplete
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\obj\Release\AmgSistemas.Framework.Utilitarios.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\obj\Release\AmgSistemas.Framework.Utilitarios.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Utilitarios\obj\Release\AmgSistemas.Framework.Utilitarios.pdb

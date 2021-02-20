@@ -1,0 +1,10 @@
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Dicionario\bin\Release\AmgSistemas.Framework.Dicionario.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Dicionario\bin\Release\AmgSistemas.Framework.Dicionario.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Dicionario\bin\Release\AmgSistemas.Framework.Dicionario.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Dicionario\obj\Release\AmgSistemas.Framework.Dicionario.vbprojAssemblyReference.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Dicionario\obj\Release\AmgSistemas.Framework.Dicionario.Resources.resources
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Dicionario\obj\Release\AmgSistemas.Framework.Dicionario.vbproj.GenerateResource.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Dicionario\obj\Release\AmgSistemas.Framework.Dicionario.vbproj.CoreCompileInputs.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Dicionario\obj\Release\AmgSistemas.Framework.Dicionario.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Dicionario\obj\Release\AmgSistemas.Framework.Dicionario.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Dicionario\obj\Release\AmgSistemas.Framework.Dicionario.pdb

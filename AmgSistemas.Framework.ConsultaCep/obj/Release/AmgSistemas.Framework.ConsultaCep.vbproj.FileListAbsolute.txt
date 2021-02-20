@@ -1,0 +1,10 @@
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.ConsultaCep\bin\Release\AmgSistemas.Framework.ConsultaCep.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.ConsultaCep\bin\Release\AmgSistemas.Framework.ConsultaCep.pdb
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.ConsultaCep\bin\Release\AmgSistemas.Framework.ConsultaCep.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.ConsultaCep\obj\Release\AmgSistemas.Framework.ConsultaCep.vbprojAssemblyReference.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.ConsultaCep\obj\Release\AmgSistemas.Framework.ConsultaCep.Resources.resources
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.ConsultaCep\obj\Release\AmgSistemas.Framework.ConsultaCep.vbproj.GenerateResource.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.ConsultaCep\obj\Release\AmgSistemas.Framework.ConsultaCep.vbproj.CoreCompileInputs.cache
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.ConsultaCep\obj\Release\AmgSistemas.Framework.ConsultaCep.dll
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.ConsultaCep\obj\Release\AmgSistemas.Framework.ConsultaCep.xml
+C:\Projetos\AmgSistemas.Framework\AmgSistemas.Framework.3.5\AmgSistemas.Framework.ConsultaCep\obj\Release\AmgSistemas.Framework.ConsultaCep.pdb
